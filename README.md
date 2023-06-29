@@ -1,7 +1,8 @@
 # HLTV_Stats
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas?logo=python&logoColor=%233776AB&label=python&color=blueviolet)
 ![PyPI](https://img.shields.io/pypi/v/pandas?logo=pandas&label=pandas)
 ![PyPI](https://img.shields.io/pypi/v/BeautifulSoup4?label=beautifulsoup&color=orange)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas?logo=python&logoColor=%233776AB&label=python&color=blueviolet)
+
 
 
 **HLTV**: [HLTV](https://www.hltv.org/), formerly an acronym of Half-Life Television, is a news website and forum which covers professional Counter-Strike: Global Offensive esports news, tournaments and statistics. It is one of the leading websites within the Counter-Strike community with over 4 million unique visitors each month.
